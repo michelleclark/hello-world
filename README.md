@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Repository for leaning how to use GitHub
+Repository for learning how to use GitHub
